@@ -1,0 +1,1303 @@
+
+[
+    {
+        "userEmail": "clientFinalDraft@sansera.in",
+        "captureCreated": "2024/03/18|19:55:45",
+        "annualFrequency": null,
+        "monthFrequency": [
+            {
+                "Month": "Mar'24",
+                "KPICodes": [
+                    {
+                        "KPIInput": {
+                            "x": "0",
+                            "y": "0"
+                        },
+                        "KPIcode": "ENE 3.16",
+                        "captureDateTime": "2024/03/18|19:55:45",
+                        "KPIFormat": "Ratio",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Energy intensity ratio for the organisation"
+                    }
+                ]
+            }
+        ],
+        "Department": "Facilities Management",
+        "OperationalUnit": "Plant 4",
+        "captureUpdated": null
+    },
+    {
+        "userEmail": "clientFinalDraft@sansera.in",
+        "captureCreated": "2024/03/18|18:51:29",
+        "annualFrequency": [
+            {
+                "Year": "2022-2023",
+                "KPICodes": [
+                    {
+                        "KPIInput": "22 %",
+                        "KPIcode": "WTR 4.2",
+                        "captureDateTime": "2024/03/18|18:51:29",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Rainwater harvested as a percentage of total water consumption"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2022",
+                        "KPIcode": "CWB 3.3",
+                        "captureDateTime": "2024/03/18|18:51:29",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the metric/approach to measure customer satisfaction"
+                    },
+                    {
+                        "KPIInput": 2022,
+                        "KPIcode": "ECC 4.8",
+                        "captureDateTime": "2024/03/18|18:51:30",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total PM emissions (in kgs) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": 2022,
+                        "KPIcode": "ECC 4.5",
+                        "captureDateTime": "2024/03/18|18:51:31",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total POP emissions (in kgs) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": true,
+                        "KPIcode": "ECC 5.3",
+                        "captureDateTime": "2024/03/18|18:51:31",
+                        "KPIFormat": "Binary",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Does the organization carry out climate-related scenario analysis to inform its business strategy?"
+                    },
+                    {
+                        "KPIInput": 2021.98,
+                        "KPIcode": "ENE 3.9",
+                        "captureDateTime": "2024/03/18|18:51:32",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total electricity, heating, cooling and steam consumption (in units or kWh) during the reporting period. Enter \"NA\" where not applicable."
+                    },
+                    {
+                        "KPIInput": "22 %",
+                        "KPIcode": "EMS 2.2",
+                        "captureDateTime": "2024/03/18|18:51:32",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Percentage of sites of operation for which guidelines apply."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2022",
+                        "KPIcode": "COM 1.3",
+                        "captureDateTime": "2024/03/18|18:51:32",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Significant fines and non-monetary sanctions for non-compliance with environmental laws and/or regulations in terms of:\n  i. total monetary value of significant fines;\n  ii. total number of non-monetary sanctions; \n  iii. cases brought through dispute resolution mechanisms."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2022",
+                        "KPIcode": "OHS 2.13",
+                        "captureDateTime": "2024/03/18|18:51:33",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Does your organisation have description of the organization’s approach to preventing or mitigating significant negative occupational health and safety impacts that are directly linked to its operations, products or services by its business relationships, and the related hazards and risks"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2022",
+                        "KPIcode": "OHS 3.18",
+                        "captureDateTime": "2024/03/18|18:51:33",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the process of determination and mitigation of work-related hazards that pose a risk of high-consequence injury"
+                    }
+                ]
+            },
+            {
+                "Year": "2023-2024",
+                "KPICodes": [
+                    {
+                        "KPIInput": "23 %",
+                        "KPIcode": "WTR 4.2",
+                        "captureDateTime": "2024/03/18|19:13:45",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Rainwater harvested as a percentage of total water consumption"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2023",
+                        "KPIcode": "CWB 3.3",
+                        "captureDateTime": "2024/03/18|19:13:45",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the metric/approach to measure customer satisfaction"
+                    },
+                    {
+                        "KPIInput": 2023,
+                        "KPIcode": "ECC 4.8",
+                        "captureDateTime": "2024/03/18|19:13:47",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total PM emissions (in kgs) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": 2022.99,
+                        "KPIcode": "ECC 4.5",
+                        "captureDateTime": "2024/03/18|19:13:47",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total POP emissions (in kgs) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": true,
+                        "KPIcode": "ECC 5.3",
+                        "captureDateTime": "2024/03/18|19:13:48",
+                        "KPIFormat": "Binary",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Does the organization carry out climate-related scenario analysis to inform its business strategy?"
+                    },
+                    {
+                        "KPIInput": 2023,
+                        "KPIcode": "ENE 3.9",
+                        "captureDateTime": "2024/03/18|19:13:48",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total electricity, heating, cooling and steam consumption (in units or kWh) during the reporting period. Enter \"NA\" where not applicable."
+                    },
+                    {
+                        "KPIInput": "23 %",
+                        "KPIcode": "EMS 2.2",
+                        "captureDateTime": "2024/03/18|19:13:49",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Percentage of sites of operation for which guidelines apply."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2023",
+                        "KPIcode": "COM 1.3",
+                        "captureDateTime": "2024/03/18|19:13:49",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Significant fines and non-monetary sanctions for non-compliance with environmental laws and/or regulations in terms of:\n  i. total monetary value of significant fines;\n  ii. total number of non-monetary sanctions; \n  iii. cases brought through dispute resolution mechanisms."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2023",
+                        "KPIcode": "OHS 2.13",
+                        "captureDateTime": "2024/03/18|19:13:49",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Does your organisation have description of the organization’s approach to preventing or mitigating significant negative occupational health and safety impacts that are directly linked to its operations, products or services by its business relationships, and the related hazards and risks"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for 2023",
+                        "KPIcode": "OHS 3.18",
+                        "captureDateTime": "2024/03/18|19:13:50",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the process of determination and mitigation of work-related hazards that pose a risk of high-consequence injury"
+                    }
+                ]
+            }
+        ],
+        "monthFrequency": [
+            {
+                "Month": "Jan'24",
+                "KPICodes": [
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "CWB 3.5",
+                        "captureDateTime": "2024/03/18|18:51:30",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the mechanisms in place to receive and respond to consumer complaints and feedback."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "CWB 1.3",
+                        "captureDateTime": "2024/03/18|18:51:30",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe initiatives around protection of customer health and safety."
+                    },
+                    {
+                        "KPIInput": 2022,
+                        "KPIcode": "ECC 2.21",
+                        "captureDateTime": "2024/03/18|18:51:31",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Reduction in GHG emissions (Scope 3)"
+                    },
+                    {
+                        "KPIInput": 2022,
+                        "KPIcode": "ECC 2.3",
+                        "captureDateTime": "2024/03/18|18:51:32",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total GHG emissions (in MT of CO2e) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "OHS 3.19",
+                        "captureDateTime": "2024/03/18|18:51:33",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Any actions taken or underway to eliminate other work-related hazards and minimize risks using the hierarchy of controls."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "SSC 2.4",
+                        "captureDateTime": "2024/03/18|18:51:34",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Significant actual and potential negative environmental impacts identified in the supply chain. "
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "SSC 3.16",
+                        "captureDateTime": "2024/03/18|18:51:34",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Measures taken by the organization in the reporting period intended to support rights to exercise freedom of association and collective bargaining"
+                    },
+                    {
+                        "KPIInput": "1 %",
+                        "KPIcode": "BHR 4.4",
+                        "captureDateTime": "2024/03/18|18:51:34",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Percentage of security personnel who have received formal training in HR policies or procedures."
+                    },
+                    {
+                        "KPIInput": [
+                            {
+                                "Field_3": "Total",
+                                "Field_4": "Male",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 15.1.1",
+                                "Field_2": "Particulars",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": "%(Female/Total)",
+                                "Field_5": "%(Male/Total)",
+                                "Type": "Matrix",
+                                "Field_6": "Female",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 3,
+                                "Field_4": 1,
+                                "Field_1": "Differently_Abled_Employees_1",
+                                "tableNumber": "Table 15.1.2",
+                                "Field_2": "Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 66.6667,
+                                "Field_5": 33.3333,
+                                "Type": "Matrix",
+                                "Field_6": 2,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 7,
+                                "Field_4": 3,
+                                "Field_1": "Differently_Abled_Employees_2",
+                                "tableNumber": "Table 15.1.3",
+                                "Field_2": "Other_than_Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 57.1429,
+                                "Field_5": 42.8571,
+                                "Type": "Matrix",
+                                "Field_6": 4,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 10,
+                                "Field_4": 4,
+                                "Field_1": "Differently_Abled_Employees_3",
+                                "tableNumber": "Table 15.1.4",
+                                "Field_2": "Total_differently_abled_employees",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 60,
+                                "Field_5": 40,
+                                "Type": "Matrix",
+                                "Field_6": 6,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": "Total",
+                                "Field_4": "Male",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 15.2.1",
+                                "Field_2": "Particulars",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": "%(Female/Total)",
+                                "Field_5": "%(Male/Total)",
+                                "Type": "Matrix",
+                                "Field_6": "Female",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 11,
+                                "Field_4": 5,
+                                "Field_1": "Differently_abled_Workers_1",
+                                "tableNumber": "Table 15.2.2",
+                                "Field_2": "Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 54.5455,
+                                "Field_5": 45.4545,
+                                "Type": "Matrix",
+                                "Field_6": 6,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 15,
+                                "Field_4": 7,
+                                "Field_1": "Differently_abled_Workers_2",
+                                "tableNumber": "Table 15.2.3",
+                                "Field_2": "Other_than_Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 53.3333,
+                                "Field_5": 46.6667,
+                                "Type": "Matrix",
+                                "Field_6": 8,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 26,
+                                "Field_4": 12,
+                                "Field_1": "Differently_abled_Workers_3",
+                                "tableNumber": "Table 15.2.4",
+                                "Field_2": "Total_differently_abled_workers",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 53.8462,
+                                "Field_5": 46.1538,
+                                "Type": "Matrix",
+                                "Field_6": 14,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "tableNumber": "Table 15.2.5",
+                                "Type": "Matrix",
+                                "Field_button": "True"
+                            }
+                        ],
+                        "KPIcode": "DEI 2.4",
+                        "captureDateTime": "2024/03/18|18:51:34",
+                        "KPIFormat": "Table 15",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Details of differently abled employees and workers"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Jan 2024",
+                        "KPIcode": "BOG 5.8",
+                        "captureDateTime": "2024/03/18|18:51:35",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "If the BOD is not responsible for reviewing and approving the SR, including the organization’s material topics, explain the reason for this."
+                    },
+                    {
+                        "KPIInput": 124,
+                        "KPIcode": "BSE 3.1",
+                        "captureDateTime": "2024/03/18|18:51:35",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total monetary value of financial and in-kind political contributions made directly and indirectly by the organization by country and recipient/beneficiary"
+                    },
+                    {
+                        "KPIInput": "1 %",
+                        "KPIcode": "HCP 3.1",
+                        "captureDateTime": "2024/03/18|18:51:35",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Proportion of employees trained for skills and development"
+                    },
+                    {
+                        "KPIInput": [
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False ",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Areas with\n water stress Units (KL)",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 30.1.1",
+                                "Field_2": "All Areas Units (KL)",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Water withdrawal by source"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 2,
+                                "Field_1": "Surface_water_2",
+                                "tableNumber": "Table 30.1.2",
+                                "Field_2": 1,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 4,
+                                "Field_1": "Surface_water_3",
+                                "tableNumber": "Table 30.1.3",
+                                "Field_2": 3,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 6,
+                                "Field_1": "Surface_water_1",
+                                "tableNumber": "Table 30.1.4",
+                                "Field_2": 4,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Surface water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 6,
+                                "Field_1": "Groundwater_2",
+                                "tableNumber": "Table 30.2.1",
+                                "Field_2": 5,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 8,
+                                "Field_1": "Groundwater_3",
+                                "tableNumber": "Table 30.2.2",
+                                "Field_2": 7,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 14,
+                                "Field_1": "Groundwater_1",
+                                "tableNumber": "Table 30.2.3",
+                                "Field_2": 12,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Groundwater (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 10,
+                                "Field_1": "Seawater_2",
+                                "tableNumber": "Table 30.3.1",
+                                "Field_2": 9,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 12,
+                                "Field_1": "Seawater_3",
+                                "tableNumber": "Table 30.3.2",
+                                "Field_2": 11,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 22,
+                                "Field_1": "Seawater_1",
+                                "tableNumber": "Table 30.3.3",
+                                "Field_2": 20,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Seawater (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 14,
+                                "Field_1": "Produced_water_2",
+                                "tableNumber": "Table 30.4.1",
+                                "Field_2": 13,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 16,
+                                "Field_1": "Produced_water_3",
+                                "tableNumber": "Table 30.4.2",
+                                "Field_2": 15,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 30,
+                                "Field_1": "Produced_water_1",
+                                "tableNumber": "Table 30.4.3",
+                                "Field_2": 28,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Produced water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 18,
+                                "Field_1": "Third_party_water_2",
+                                "tableNumber": "Table 30.5.1",
+                                "Field_2": 17,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 20,
+                                "Field_1": "Third_party_water_3",
+                                "tableNumber": "Table 30.5.2",
+                                "Field_2": 19,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 38,
+                                "Field_1": "Third_party_water_1",
+                                "tableNumber": "Table 30.5.3",
+                                "Field_2": 36,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Third_party water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 110,
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_1",
+                                "tableNumber": "Table 30.6.1",
+                                "Field_2": 100,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Total third_party water withdrawal by withdrawal source"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_2",
+                                "tableNumber": "Table 30.6.2",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Surface water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_3",
+                                "tableNumber": "Table 30.6.3",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Groundwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_4",
+                                "tableNumber": "Table 30.6.4",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Seawater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_5",
+                                "tableNumber": "Table 30.6.5",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Produced water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 110,
+                                "Field_1": "Total_1",
+                                "tableNumber": "Table 30.7.1",
+                                "Field_2": 100,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Total water withdrawal"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "Field_button": "True",
+                                "Number_of_tables_for_interation": "1",
+                                "tableNumber": "Table 30.7.2",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "nan"
+                            }
+                        ],
+                        "KPIcode": "TRD 2.4",
+                        "captureDateTime": "2024/03/18|18:51:36",
+                        "KPIFormat": "Table 30",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Number of complaints received in relation to issues of Conflict of Interest of the Directors & Senior Executives "
+                    },
+                    {
+                        "KPIInput": {
+                            "x": "1",
+                            "y": "1"
+                        },
+                        "KPIcode": "ENE 3.16",
+                        "captureDateTime": "2024/03/18|19:55:45",
+                        "KPIFormat": "Ratio",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Energy intensity ratio for the organisation"
+                    }
+                ]
+            },
+            {
+                "Month": "Feb'24",
+                "KPICodes": [
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "CWB 3.5",
+                        "captureDateTime": "2024/03/18|19:13:46",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe the mechanisms in place to receive and respond to consumer complaints and feedback."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "CWB 1.3",
+                        "captureDateTime": "2024/03/18|19:13:46",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Describe initiatives around protection of customer health and safety."
+                    },
+                    {
+                        "KPIInput": 2022,
+                        "KPIcode": "ECC 2.21",
+                        "captureDateTime": "2024/03/18|19:13:48",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Reduction in GHG emissions (Scope 3)"
+                    },
+                    {
+                        "KPIInput": 2023,
+                        "KPIcode": "ECC 2.3",
+                        "captureDateTime": "2024/03/18|19:13:48",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total GHG emissions (in MT of CO2e) during the reporting period. Enter \"Not Available\" if so."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "OHS 3.19",
+                        "captureDateTime": "2024/03/18|19:13:50",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Any actions taken or underway to eliminate other work-related hazards and minimize risks using the hierarchy of controls."
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "SSC 2.4",
+                        "captureDateTime": "2024/03/18|19:13:50",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Significant actual and potential negative environmental impacts identified in the supply chain. "
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "SSC 3.16",
+                        "captureDateTime": "2024/03/18|19:13:51",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Measures taken by the organization in the reporting period intended to support rights to exercise freedom of association and collective bargaining"
+                    },
+                    {
+                        "KPIInput": "2 %",
+                        "KPIcode": "BHR 4.4",
+                        "captureDateTime": "2024/03/18|19:13:51",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Percentage of security personnel who have received formal training in HR policies or procedures."
+                    },
+                    {
+                        "KPIInput": [
+                            {
+                                "Field_3": "Total",
+                                "Field_4": "Male",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 15.1.1",
+                                "Field_2": "Particulars",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": "%(Female/Total)",
+                                "Field_5": "%(Male/Total)",
+                                "Type": "Matrix",
+                                "Field_6": "Female",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 33,
+                                "Field_4": 11,
+                                "Field_1": "Differently_Abled_Employees_1",
+                                "tableNumber": "Table 15.1.2",
+                                "Field_2": "Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 66.6667,
+                                "Field_5": 33.3333,
+                                "Type": "Matrix",
+                                "Field_6": 22,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 77,
+                                "Field_4": 33,
+                                "Field_1": "Differently_Abled_Employees_2",
+                                "tableNumber": "Table 15.1.3",
+                                "Field_2": "Other_than_Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 57.1429,
+                                "Field_5": 42.8571,
+                                "Type": "Matrix",
+                                "Field_6": 44,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": 110,
+                                "Field_4": 44,
+                                "Field_1": "Differently_Abled_Employees_3",
+                                "tableNumber": "Table 15.1.4",
+                                "Field_2": "Total_differently_abled_employees",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 60,
+                                "Field_5": 40,
+                                "Type": "Matrix",
+                                "Field_6": 66,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Employees"
+                            },
+                            {
+                                "Field_3": "Total",
+                                "Field_4": "Male",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 15.2.1",
+                                "Field_2": "Particulars",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": "%(Female/Total)",
+                                "Field_5": "%(Male/Total)",
+                                "Type": "Matrix",
+                                "Field_6": "Female",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 121,
+                                "Field_4": 55,
+                                "Field_1": "Differently_abled_Workers_1",
+                                "tableNumber": "Table 15.2.2",
+                                "Field_2": "Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 54.5455,
+                                "Field_5": 45.4545,
+                                "Type": "Matrix",
+                                "Field_6": 66,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 165,
+                                "Field_4": 77,
+                                "Field_1": "Differently_abled_Workers_2",
+                                "tableNumber": "Table 15.2.3",
+                                "Field_2": "Other_than_Permanent",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 53.3333,
+                                "Field_5": 46.6667,
+                                "Type": "Matrix",
+                                "Field_6": 88,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "Field_3": 286,
+                                "Field_4": 132,
+                                "Field_1": "Differently_abled_Workers_3",
+                                "tableNumber": "Table 15.2.4",
+                                "Field_2": "Total_differently_abled_workers",
+                                "No_of_rows_columns": "2 x 2",
+                                "Field_7": 53.8462,
+                                "Field_5": 46.1538,
+                                "Type": "Matrix",
+                                "Field_6": 154,
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Table_name": "Differently Abled Workers"
+                            },
+                            {
+                                "tableNumber": "Table 15.2.5",
+                                "Type": "Matrix",
+                                "Field_button": "True"
+                            }
+                        ],
+                        "KPIcode": "DEI 2.4",
+                        "captureDateTime": "2024/03/18|19:13:51",
+                        "KPIFormat": "Table 15",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Details of differently abled employees and workers"
+                    },
+                    {
+                        "KPIInput": "This is an open-text final draft test for Feb 2024",
+                        "KPIcode": "BOG 5.8",
+                        "captureDateTime": "2024/03/18|19:13:52",
+                        "KPIFormat": "Open Text",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "If the BOD is not responsible for reviewing and approving the SR, including the organization’s material topics, explain the reason for this."
+                    },
+                    {
+                        "KPIInput": 224,
+                        "KPIcode": "BSE 3.1",
+                        "captureDateTime": "2024/03/18|19:13:52",
+                        "KPIFormat": "Number",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Total monetary value of financial and in-kind political contributions made directly and indirectly by the organization by country and recipient/beneficiary"
+                    },
+                    {
+                        "KPIInput": "2 %",
+                        "KPIcode": "HCP 3.1",
+                        "captureDateTime": "2024/03/18|19:13:53",
+                        "KPIFormat": "Percent",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Proportion of employees trained for skills and development"
+                    },
+                    {
+                        "KPIInput": [
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False ",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Areas with\n water stress Units (KL)",
+                                "Field_1": "Header",
+                                "tableNumber": "Table 30.1.1",
+                                "Field_2": "All Areas Units (KL)",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Water withdrawal by source"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 22,
+                                "Field_1": "Surface_water_2",
+                                "tableNumber": "Table 30.1.2",
+                                "Field_2": 11,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 44,
+                                "Field_1": "Surface_water_3",
+                                "tableNumber": "Table 30.1.3",
+                                "Field_2": 33,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 66,
+                                "Field_1": "Surface_water_1",
+                                "tableNumber": "Table 30.1.4",
+                                "Field_2": 44,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Surface water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 66,
+                                "Field_1": "Groundwater_2",
+                                "tableNumber": "Table 30.2.1",
+                                "Field_2": 55,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 88,
+                                "Field_1": "Groundwater_3",
+                                "tableNumber": "Table 30.2.2",
+                                "Field_2": 77,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 154,
+                                "Field_1": "Groundwater_1",
+                                "tableNumber": "Table 30.2.3",
+                                "Field_2": 132,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Groundwater (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 1010,
+                                "Field_1": "Seawater_2",
+                                "tableNumber": "Table 30.3.1",
+                                "Field_2": 99,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 1212,
+                                "Field_1": "Seawater_3",
+                                "tableNumber": "Table 30.3.2",
+                                "Field_2": 1111,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 2222,
+                                "Field_1": "Seawater_1",
+                                "tableNumber": "Table 30.3.3",
+                                "Field_2": 1210,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Seawater (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 1414,
+                                "Field_1": "Produced_water_2",
+                                "tableNumber": "Table 30.4.1",
+                                "Field_2": 1313,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 1616,
+                                "Field_1": "Produced_water_3",
+                                "tableNumber": "Table 30.4.2",
+                                "Field_2": 1515,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 3030,
+                                "Field_1": "Produced_water_1",
+                                "tableNumber": "Table 30.4.3",
+                                "Field_2": 2828,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Produced water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 1818,
+                                "Field_1": "Third_party_water_2",
+                                "tableNumber": "Table 30.5.1",
+                                "Field_2": 1717,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Freshwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 2020,
+                                "Field_1": "Third_party_water_3",
+                                "tableNumber": "Table 30.5.2",
+                                "Field_2": 1919,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Other water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 3838,
+                                "Field_1": "Third_party_water_1",
+                                "tableNumber": "Table 30.5.3",
+                                "Field_2": 3636,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Third_party water (total)"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 9310,
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_1",
+                                "tableNumber": "Table 30.6.1",
+                                "Field_2": 7850,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Total third_party water withdrawal by withdrawal source"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_2",
+                                "tableNumber": "Table 30.6.2",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Surface water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_3",
+                                "tableNumber": "Table 30.6.3",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Groundwater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_4",
+                                "tableNumber": "Table 30.6.4",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Seawater"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": "Not Required",
+                                "Field_1": "Total_third_party_water_withdrawal_by_withdrawal_source_5",
+                                "tableNumber": "Table 30.6.5",
+                                "Field_2": "Not Required",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Produced water"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "autoCompute": "False",
+                                "Number_of_tables_for_interation": "1",
+                                "Field_3": 9310,
+                                "Field_1": "Total_1",
+                                "tableNumber": "Table 30.7.1",
+                                "Field_2": 7850,
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "Total water withdrawal"
+                            },
+                            {
+                                "Type": "Matrix",
+                                "Yearly_factor": "N",
+                                "Field_button": "True",
+                                "Number_of_tables_for_interation": "1",
+                                "tableNumber": "Table 30.7.2",
+                                "No_of_rows_columns": "2 x 2",
+                                "Table_name": "nan"
+                            }
+                        ],
+                        "KPIcode": "TRD 2.4",
+                        "captureDateTime": "2024/03/18|19:13:53",
+                        "KPIFormat": "Table 30",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Number of complaints received in relation to issues of Conflict of Interest of the Directors & Senior Executives "
+                    },
+                    {
+                        "KPIInput": {
+                            "x": "2",
+                            "y": "2"
+                        },
+                        "KPIcode": "ENE 3.16",
+                        "captureDateTime": "2024/03/18|19:55:45",
+                        "KPIFormat": "Ratio",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Energy intensity ratio for the organisation"
+                    }
+                ]
+            }
+        ],
+        "Department": "Facilities Management",
+        "OperationalUnit": "Plant 2",
+        "captureUpdated": "2024/03/18|19:13:53"
+    },
+    {
+        "userEmail": "clientFinalDraft@sansera.in",
+        "captureCreated": "2024/04/05|18:54:09",
+        "annualFrequency": [
+            {
+                "Year": "2024-2025",
+                "KPICodes": [
+                    {
+                        "KPIInput": false,
+                        "KPIcode": "COM 2.6",
+                        "KPIFormat": "Binary",
+                        "captureDateTime": "2024/04/05|18:54:09",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Has the organization been involved in any incidents involving violation of community rights?"
+                    }
+                ]
+            }
+        ],
+        "monthFrequency": [
+            {
+                "Month": "Mar'24",
+                "KPICodes": [
+                    {
+                        "KPIInput": "abc",
+                        "KPIcode": "COM 3.1",
+                        "KPIFormat": "Open Text",
+                        "captureDateTime": "2024/04/05|18:54:09",
+                        "draftStatus": "saved",
+                        "KPIQuestion": "Provide details of any corrective action taken or underway on issues related to fines / penalties / action taken by regulators/ law enforcement agencies/ judicial institutions, on cases of corruption and conflicts of interest."
+                    }
+                ]
+            }
+        ],
+        "Department": "Business Development",
+        "OperationalUnit": "Plant 1",
+        "captureUpdated": "2024/04/05|18:54:09"
+    }
+]
