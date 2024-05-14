@@ -15,5 +15,7 @@ router.use(authenticateToken.authenticateToken);
 // Route to get tables data
 router.post('/getReport',reportingController.getReport);
 
+router.post('getPreviewData',reportingController.getPreviewData)
+
 // Export the router for use in the main application
 module.exports = router;

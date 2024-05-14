@@ -71,7 +71,126 @@ const getReport = async (req, res) => {
 };
 
 
+const getPreviewData = async (res, res) => {
+  try{
+    userEmail = req.body.userEmail;
+    const response = await dataCaptureController.getReportData(userEmail);
 
+    if (response !== null) {
+        const previewData = await generatePreviewData(response)
+
+        res.json(previewData)
+    }
+  } catch (error) {
+    console.error("Error:", error);
+    res.status(500).json(error);
+}
+}
+
+
+const generatePreviewData = async (data) => {
+    const resultArray = [];
+
+  data.forEach(entry => {
+    const userEmail = entry.userEmail;
+    const department = entry.Department;
+    const operationalUnit = entry.OperationalUnit;
+
+    const monthFrequency = entry.monthFrequency;
+
+    if (monthFrequency) {
+      monthFrequency.forEach(monthData => {
+        const month = monthData.Month;
+      monthData.KPICodes.forEach(kpiCodeData => {
+        const kpiCode = kpiCodeData.KPIcode;
+      const kpiQuestion = kpiCodeData.KPIQuestion;
+      const kpiFormat = kpiCodeData.KPIFormat;
+      const kpiInput = kpiCodeData.KPIInput;
+
+      const rowData = {
+        'USER EMAIL': userEmail,
+        'TIME': month,
+        'KPIcode': kpiCode,
+        'KPIQuestion': kpiQuestion,
+        'KPIFormat': kpiFormat,
+        "Department": department,
+            "Operational Unit": operationalUnit
+      };
+
+        // Check if KPIInput is an array and KPIFormat is "table 15"
+        if (Array.isArray(kpiInput) ) {
+          const subTable = kpiInput.map(item => ({
+            Field_1: item.Field_1,
+            Field_2: item.Field_2,
+            Field_3: item.Field_3,
+            Field_4: item.Field_4,
+            Field_5: item.Field_5,
+            Field_6: item.Field_6,
+            Field_7: item.Field_7,
+          }));
+
+          rowData.KPIInput = subTable;
+        }
+         else if (typeof kpiInput === 'object') {
+          const ratioData =  String(Object.values(kpiInput).join(':'));
+          rowData.KPIInput = ratioData;
+      }
+      else {
+          rowData.KPIInput = kpiInput;
+        }
+          resultArray.push(rowData);
+          
+        });
+      });
+    }
+
+    const annualFrequency = entry.annualFrequency;
+    if (annualFrequency){
+      annualFrequency.forEach(annualData => {
+        const year = annualData.Year;
+        annualData.KPICodes.forEach(kpiCodeData => {
+          const kpiCode = kpiCodeData.KPIcode;
+          const kpiQuestion = kpiCodeData.KPIQuestion;
+          const kpiFormat = kpiCodeData.KPIFormat;
+          const kpiInput = kpiCodeData.KPIInput;
+
+          const rowData = {
+            'USER EMAIL': userEmail,
+            'TIME': year,
+            'KPIcode': kpiCode,
+            'KPIQuestion': kpiQuestion,
+            'KPIFormat': kpiFormat,
+            "Department": department,
+            "Operational Unit": operationalUnit
+          };
+
+         
+
+          if (Array.isArray(kpiInput)) {
+            const subTable = kpiInput.map(item => ({
+              Field_1: item.Field_1,
+              Field_2: item.Field_2,
+              Field_3: item.Field_3,
+              Field_4: item.Field_4,
+              Field_5: item.Field_5,
+              Field_6: item.Field_6,
+              Field_7: item.Field_7,
+            }));
+            rowData.KPIInput = subTable;
+          } else if (typeof kpiInput === 'object') {
+            const ratioData = String(Object.values(kpiInput).join(':'));
+            rowData.KPIInput = ratioData;
+          } else {
+            rowData.KPIInput = kpiInput;
+          }
+          resultArray.push(rowData);
+        });
+      });
+    }
+  });
+
+  return resultArray;
+}
 // Function to parse JSON data and generate Excel sheet
 const generateExcelSheet = async (data) => {
     const workbook = new ExcelJS.Workbook();
@@ -228,4 +347,4 @@ const readFile = async (filePath) => {
     const fs = require('fs').promises;
     return await fs.readFile(filePath);
 }
-module.exports = { getReport };
+module.exports = { getReport, getPreviewData };
