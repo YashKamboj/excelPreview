@@ -1,0 +1,53 @@
+import { Button } from "@mui/material";
+import React from "react";
+import { FaArrowDownLong } from "react-icons/fa6";
+import axios from "axios";
+import * as FileSaver from "file-saver";
+import { baseUrl } from "../baseurl";
+
+const DemoDownloadBtn = () => {
+  const handleDownload = async () => {
+    try {
+      const token = localStorage.getItem("token");
+      const userEmail = localStorage.getItem("email");
+      const headers = {
+        Authorization: `${token}`,
+        "Content-Type": "application/json",
+      };
+      const currentDate = new Date()
+        .toISOString()
+        .replace(/[-T:]/g, "")
+        .split(".")[0];
+
+      const fileName = `Report_${userEmail.replace(
+        "@",
+        "_"
+      )}_${currentDate}.xlsx`;
+      const res = await axios.post(
+        `${baseUrl}/getReport`,
+        { userEmail },
+        { headers, responseType: "blob" }
+      );
+      const blob = new Blob([res.data], {
+        type: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      });
+      FileSaver.saveAs(blob, fileName);
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
+
+  return (
+    <div>
+      <Button
+        onClick={handleDownload}
+        variant="outlined"
+        startIcon={<FaArrowDownLong />}
+      >
+        Download
+      </Button>
+    </div>
+  );
+};
+
+export default DemoDownloadBtn;
